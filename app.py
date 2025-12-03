@@ -42,7 +42,7 @@ DEFAULT_AVERAGE_SPEED: dict = {
     'cable_car_normal': 8,
     'airplane_normal': 70
 }
-RUNNING_SPEED: int = 5. 612
+RUNNING_SPEED: int = 5.612
 TRANSFER_SPEED: int = 4.317
 WILD_WALKING_SPEED: int = 2.25
 
