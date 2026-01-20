@@ -266,6 +266,7 @@ HTML_TEMPLATE = '''
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
+    <script defer src="https://umamitonyv2.zeabur.app/script.js" data-website-id="7d1df907-e307-4908-a6c4-7ab5a724a404"></script>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>MTR路径查找器</title>
